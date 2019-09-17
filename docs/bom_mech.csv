@@ -1,0 +1,16 @@
+Description,Qty,Source,Link
+Shaft 8mm dia 406mm lg,8,Amazon,https://www.amazon.com/Hardened-Chrome-Linear-Motion-Shafts/dp/B01LXAZFKZ
+"Bearing, Linear 8mm LM8UU",8,,
+Bearing 5x16x5 625-2RS,4,,
+"Pulley, GT2 5mm Bore 16T",8,,
+Idler Pulley 3mm Bore GT2 16T,8,,
+Shaft Coupler 5mm x 5mm,4,Amazon,https://www.amazon.com/gp/product/B07DW323D7
+GT2 Belt 6mm Wide,,,
+Limit Switch,4,Amazon,https://www.amazon.com/gp/product/B07PCN6T6F
+"Tool Steel Rod, 0.194"" Diameter",2,McMaster,https://www.mcmaster.com/8890K181
+"Linear Bearing, MGN9H 110mm long",2,eBay,https://www.ebay.com/itm/New-Hiwin-MGN9H-Linear-Guides-MGN-Series-Linear-Bearings-30mm-to-1190mm-Long/172789096756?hash=item283b086134:m:mZsoTLmOkM0TMYogBHneb-Q
+Drag Chain 7x7,3,Amazon,https://www.amazon.com/gp/product/B07KKGYXXC
+"Hobby Servo, micro",2,,
+controller,1,Custom,JLCPCB
+ESP32,1,Amazon,https://www.amazon.com/gp/product/B0718T232Z/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+Stepper Driver ,4,Drv8825,
